@@ -50,8 +50,8 @@
     <category label="30200">
     	<setting id="youtube.api.enable" type="bool" label="30204" default="false"/>
     	<setting id="youtube.api.autologin_enabled" type="bool" label="30205" enable="eq(-1,false)" default="true"/>
-        <setting id="youtube.api.key" type="text" label="30201" enable="eq(-2,true)" default="AIzaSyAd-YEOqZz9nXVzGtn3KWzYLbLaajhqIDA"/>
-        <setting id="youtube.api.id" type="text" label="30202" enable="eq(-3,true)" default="861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68"/>
-        <setting id="youtube.api.secret" type="text" label="30203" enable="eq(-4,true)" default="SboVhoG9s0rNafixCSGGKXAT"/>
+        <setting id="youtube.api.key" type="text" label="30201" enable="eq(-2,true)" default="AIzaSyAuFahVEttSMmOuONoAv6Dl5vnkjYrOTe0"/>
+        <setting id="youtube.api.id" type="text" label="30202" enable="eq(-3,true)" default="994799824670-sdak626mq42kgdkvoo4mle2dehab0r0q.apps.googleusercontent.com"/>
+        <setting id="youtube.api.secret" type="text" label="30203" enable="eq(-4,true)" default="awsqZJQY6C5q5dC3vi9YMti6"/>
     </category>
 </settings>
